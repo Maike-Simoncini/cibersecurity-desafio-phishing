@@ -38,4 +38,4 @@ Este projeto tem como objetivo utilizar a ferramenta setoolkit para criar uma p�
 
 As credenciais inseridas na página clonada foram salvas localmente no Kali, confirmando o funcionamento do mecanismo — apenas em ambiente de laboratório.
 
-![Alt text](./images/captura.png)
+![Alt text](images/captura.png)
