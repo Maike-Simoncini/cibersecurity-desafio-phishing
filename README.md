@@ -15,6 +15,7 @@ Este projeto tem como objetivo utilizar a ferramenta setoolkit para criar uma p�
 ---
 
 ## 🛠️ Ferramentas Utilizadas
+
 - Kali Linux
 - setoolkit
 
@@ -34,6 +35,7 @@ Este projeto tem como objetivo utilizar a ferramenta setoolkit para criar uma p�
 ---
 
 ## 📊 Resultado
-As credenciais inseridas na página clonada foram salvas localmente no Kali, confirmando o funcionamento do mecanismo — **apenas em ambiente de laboratório**.
+
+As credenciais inseridas na página clonada foram salvas localmente no Kali, confirmando o funcionamento do mecanismo — apenas em ambiente de laboratório.
 
 ![Alt text](./passwd.png "Optional title")
