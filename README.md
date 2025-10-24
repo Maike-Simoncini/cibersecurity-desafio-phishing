@@ -1,10 +1,10 @@
 # Simulação de Phishing para captura de senhas do Facebook 🔒
 
 > ⚠️ Atenção:
-> - **Este projeto é exclusivamente educacional**.
+> - Este projeto é exclusivamente educacional.
 > - Nenhuma plataforma real (como Facebook, Google, etc.) foi clonada ou atacada.  
 > - Todos os testes foram realizados em ambiente local e controlado.
->  - Este projeto **não visa nem permite** o uso malicioso. Phishing contra serviços reais é crime.
+> - Este projeto não visa nem permite o uso malicioso. Phishing contra serviços reais é crime.
 
 ---
 
